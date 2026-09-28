@@ -1,0 +1,8 @@
+matplotlib>=3.5
+
+# Everything else used by this project (csv, collections, unittest, os)
+# is part of the Python standard library and needs no installation.
+#
+# Optional, only if you prefer running the test suite with pytest
+# instead of the built-in unittest runner:
+# pytest>=7.0

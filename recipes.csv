@@ -1,0 +1,21 @@
+name,ingredients,category,calories,cook_time
+Vegetable Fried Rice,carrot;egg;onion;peas;rice;soy sauce,dinner,420,20
+Tomato Pasta,basil;garlic;olive oil;pasta;tomato,dinner,450,25
+Masala Omelette,chili;coriander;egg;onion;tomato,breakfast,250,10
+Paneer Butter Masala,butter;cream;garlic;onion;paneer;tomato,dinner,520,30
+Vegetable Sandwich,bread;butter;cheese;cucumber;tomato,breakfast,300,10
+Chicken Curry,chicken;chili;garlic;ginger;onion;tomato,dinner,480,40
+Fruit Salad,apple;banana;grapes;honey;orange,breakfast,180,10
+Dal Tadka,ghee,lunch,400,32
+Vegetable Soup,carrot;onion;peas;pepper;potato,lunch,150,20
+Grilled Cheese Sandwich,bread;butter;cheese,breakfast,320,8
+Egg Fried Rice,carrot;egg;onion;rice;soy sauce,lunch,400,15
+Aloo Paratha,chili;ghee;onion;potato;wheat flour,breakfast,380,25
+Chickpea Salad,chickpeas;cucumber;lemon;onion;tomato,lunch,220,10
+Vegetable Pulao,carrot;onion;peas;rice;spices,dinner,390,25
+Banana Smoothie,banana;honey;milk;yogurt,breakfast,210,5
+Mixed Vegetable Curry,carrot;onion;peas;potato;spices;tomato,dinner,300,30
+Cheese Omelette,cheese;egg;onion;pepper,breakfast,280,10
+Lentil Soup,carrot;cumin;garlic;lentils;onion,lunch,260,25
+Pasta Primavera,carrot;olive oil;pasta;peas;tomato,dinner,410,25
+Curd Rice,curry leaves;mustard seeds;rice;yogurt,lunch,300,15
